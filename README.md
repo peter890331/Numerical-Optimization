@@ -6,3 +6,5 @@ Course Name：   數值最佳化
 Instructor：    李哲榮(LEE, CHE-RUNG)
 
 大家來抄學長的作業好歹留個Star，謝謝。
+
+但不一定保證對喔，我先聲明。
